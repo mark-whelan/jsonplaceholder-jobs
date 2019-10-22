@@ -1,7 +1,7 @@
 { "Jobs": [
  { "RESOURCE": "VAN 1~196", "DAY": "1",
  "ORDER NUMBER": " ", "CUSTOMER": "START", "ADDRESS 1": "START", "ADDRESS 2": " ", "ADDRESS 3": " ", "ADDRESS 4": " ", "POSTCODE": " ",
- "ARRIVE TIME": "07:30:00", "DEPART TIME": "07:30:00", "MILES": " ",
+ "ARRIVE TIME": "07:30:00", "DEPART TIME": "07:31:00", "MILES": " ",
  "QUANTITY 1": " ", "QUANTITY 2": " ", "DURATION": " ",
  "RUN ORDER": "1", "SEQUENCE ORDER": " " },
  { "RESOURCE": "VAN 1~196", "DAY": "1",
