@@ -19,7 +19,7 @@
       "DURATION": " ",
       "RUN ORDER": 1,
       "SEQUENCE ORDER": " ",
-      "COLDEL": "D"
+      "COLDEL": ""
     },
     {
       "JOBID": "1002",
@@ -334,7 +334,7 @@
       "DURATION": " ",
       "RUN ORDER": 16,
       "SEQUENCE ORDER": " ",
-      "COLDEL": "D"
+      "COLDEL": ""
     },
     {
       "JOBID": "1017",
